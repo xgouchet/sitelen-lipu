@@ -23,8 +23,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import fr.xgouchet.sitelenlipu.data.model.CardDisplay
+import fr.xgouchet.sitelenlipu.data.model.WordInfo
 import fr.xgouchet.sitelenlipu.data.viewmodel.FlashCardViewModel
 import fr.xgouchet.sitelenlipu.ui.atom.FlashCard
+import fr.xgouchet.sitelenlipu.ui.theme.DarkGreen
+import fr.xgouchet.sitelenlipu.ui.theme.DarkRed
 
 @Composable
 fun FlashCardScreen(
@@ -60,6 +63,8 @@ fun FlashCardScreen(
                 ) {
                     showSecret = !showSecret
                 }
+            } else {
+
             }
         }
     }
@@ -73,58 +78,68 @@ private fun BottomToolBar(
 ) {
     BottomAppBar(
         actions = {
-            IconButton(onClick = {
-                onUpdateSecretCardDisplay(
-                    display.copy(sitelenPona = !display.sitelenPona)
-                )
-            }) {
+            IconButton(
+                onClick = {
+                    onUpdateSecretCardDisplay(
+                        display.copy(sitelenPona = !display.sitelenPona)
+                    )
+                }
+            ) {
                 Text(
                     text = "sitelen pona",
-                    color =  if (display.sitelenPona) Color.Green else Color.Red,
+                    color = if (display.sitelenPona) DarkGreen else DarkRed,
                     style = MaterialTheme.typography.displaySmall
                 )
             }
-            IconButton(onClick = {
-                onUpdateSecretCardDisplay(
-                    display.copy(sitelenPilin = !display.sitelenPilin)
-                )
-            }) {
+            IconButton(
+                onClick = {
+                    onUpdateSecretCardDisplay(
+                        display.copy(sitelenPilin = !display.sitelenPilin)
+                    )
+                }
+            ) {
                 Text(
                     text = "sitelen pilin",
-                    color =  if (display.sitelenPilin) Color.Green else Color.Red,
+                    color = if (display.sitelenPilin) DarkGreen else DarkRed,
                     style = MaterialTheme.typography.displaySmall
                 )
             }
-            IconButton(onClick = {
-                onUpdateSecretCardDisplay(
-                    display.copy(tokiPona = !display.tokiPona)
+            IconButton(
+                onClick = {
+                    onUpdateSecretCardDisplay(
+                        display.copy(sitelenJelo = !display.sitelenJelo)
+                    )
+                }
+            ) {
+                Text(
+                    text = "sitelen jelo",
+                    color = if (display.sitelenJelo) DarkGreen else DarkRed,
+                    style = MaterialTheme.typography.displaySmall
                 )
-            }) {
+            }
+            IconButton(
+                onClick = {
+                    onUpdateSecretCardDisplay(
+                        display.copy(tokiPona = !display.tokiPona)
+                    )
+                }
+            ) {
                 Text(
                     text = "toki pona",
-                    color =  if (display.tokiPona) Color.Green else Color.Red,
+                    color = if (display.tokiPona) DarkGreen else DarkRed,
                     style = MaterialTheme.typography.displaySmall
                 )
             }
-            IconButton(onClick = {
-                onUpdateSecretCardDisplay(
-                    display.copy(tokiInli = !display.tokiInli)
-                )
-            }) {
+            IconButton(
+                onClick = {
+                    onUpdateSecretCardDisplay(
+                        display.copy(tokiJan = !display.tokiJan)
+                    )
+                }
+            ) {
                 Text(
-                    text = "toki [ilo]",
-                    color =  if (display.tokiInli) Color.Green else Color.Red,
-                    style = MaterialTheme.typography.displaySmall
-                )
-            }
-            IconButton(onClick = {
-                onUpdateSecretCardDisplay(
-                    display.copy(tokiKanse = !display.tokiKanse)
-                )
-            }) {
-                Text(
-                    text = "toki [kasi]",
-                    color =  if (display.tokiKanse) Color.Green else Color.Red,
+                    text = "toki jan",
+                    color = if (display.tokiJan) DarkGreen else DarkRed,
                     style = MaterialTheme.typography.displaySmall
                 )
             }

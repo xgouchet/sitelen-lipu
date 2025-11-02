@@ -14,6 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import fr.xgouchet.sitelenlipu.data.viewmodel.FlashCardViewModel
 import fr.xgouchet.sitelenlipu.ui.screen.FlashCardScreen
+import fr.xgouchet.sitelenlipu.ui.screen.MainScreen
 import fr.xgouchet.sitelenlipu.ui.theme.SitelenLipuTheme
 
 class MainActivity : ComponentActivity() {
@@ -25,26 +26,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             SitelenLipuTheme {
-                FlashCardScreen(
+                MainScreen(
                     flashCardViewModel,
                 )
             }
         }
-    }
-}
-
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    SitelenLipuTheme {
-        Greeting("Android")
     }
 }

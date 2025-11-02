@@ -62,6 +62,7 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
 
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.material.icons.extended)
 
     // Serialization
     implementation("com.akuleshov7:ktoml-core:0.7.1")
