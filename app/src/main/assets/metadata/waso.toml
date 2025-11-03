@@ -51,3 +51,6 @@ sitelen_jelo = "🐦" # ["🐦"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/waso"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#waso"
+
+[toki_inli]
+n = "bird, winged animal, flying creature"

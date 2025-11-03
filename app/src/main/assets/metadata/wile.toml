@@ -102,3 +102,9 @@ sitelen_jelo = "🙏" # ["🙏", "🧲"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/wile"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#wile"
+
+[toki_inli]
+mod = "necessary"
+n = "desire, need, will"
+pv = "to have to, to need to"
+vt = "to want, to need, to wish, to require, to desire"

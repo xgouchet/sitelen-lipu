@@ -54,3 +54,8 @@ sitelen_jelo = "👻" # ["👻"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/monsuta"
+
+[toki_inli]
+n = "fear, nervousness, dread; predator, threat, danger"
+mod = "scary, frightening"
+vt = "to scare"

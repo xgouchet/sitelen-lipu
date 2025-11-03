@@ -59,3 +59,7 @@ sitelen_jelo = "🍼" # ["🍼"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mama"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mama"
+
+[toki_inli]
+mod = "of the parent, parental, maternal, fatherly"
+n = "parent, mother, father, ancestor; creator, originator; caretaker, sustainer"

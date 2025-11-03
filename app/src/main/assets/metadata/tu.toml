@@ -57,3 +57,9 @@ sitelen_jelo = "⏸️" # ["⏸️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/tu"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#tu"
+
+[toki_inli]
+mod = "two"
+n = "duo, pair"
+number = "2"
+vt = "to double, to separate/cut/divide in two"

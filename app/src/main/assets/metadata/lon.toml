@@ -103,3 +103,7 @@ sitelen_jelo = "⏺️" # ["⏺️", "✅"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lon"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lon"
+
+[toki_inli]
+prep = "be (located) in/at/on"
+vi = "to be there, to be present, to be real/true, to exist, to be awake"

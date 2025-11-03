@@ -138,3 +138,9 @@ sitelen_jelo = "😌" # ["😌"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pona"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pona"
+
+[toki_inli]
+interj = "great! good! thanks! OK! cool! yay!"
+mod = "good, simple, positive, nice, correct, right, friendly, peaceful"
+n = "good, simplicity, positivity"
+vt = "to improve, to fix, to repair, to make good"

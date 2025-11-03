@@ -115,3 +115,8 @@ sitelen_jelo = "🐘" # ["🐘"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/suli"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#suli"
+
+[toki_inli]
+mod = "big, tall, long, adult, important, heavy"
+n = "size"
+vt = "to enlarge, to lengthen"

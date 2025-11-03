@@ -46,3 +46,6 @@ sitelen_jelo = "🤝" # ["🤝"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/en"
+
+[toki_inli]
+conj = "and (used to coordinate head nouns)"

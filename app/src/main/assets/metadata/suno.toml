@@ -51,3 +51,7 @@ sitelen_jelo = "☀️" # ["☀️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/suno"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#suno"
+
+[toki_inli]
+mod = "sunny, bright, glowing"
+n = "sun; light brightness, glow, radiance, shine; light source"

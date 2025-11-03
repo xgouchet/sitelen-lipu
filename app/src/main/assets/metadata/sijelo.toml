@@ -54,3 +54,7 @@ sitelen_jelo = "🧍" # ["🧍"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sijelo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sijelo"
+
+[toki_inli]
+mod = "physical"
+n = "body, physical state, torso"

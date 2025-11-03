@@ -1,9 +1,8 @@
 package fr.xgouchet.sitelenlipu.ui.model
 
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.outlined.ArrowBack
-import androidx.compose.material.icons.automirrored.outlined.ArrowForward
-import androidx.compose.material.icons.outlined.ArrowForward
+import androidx.compose.material.icons.automirrored.outlined.List
+import androidx.compose.material.icons.outlined.Settings
 import androidx.compose.material.icons.outlined.Square
 import androidx.compose.ui.graphics.vector.ImageVector
 
@@ -12,7 +11,7 @@ enum class Screen(
     val label: String,
     val icon: ImageVector,
 ) {
-    FLASHCARD ("flashcard", "FlashCard", Icons.Outlined.Square),
-    DICTIONARY_TOKI_INLI("toki pona tawa toki Inli", "toki pona-> Inli", Icons.AutoMirrored.Outlined.ArrowForward),
-    DICTIONARY_INLI_TOKI("toki Inli tawa toki pona", "toki pona-> Inli", Icons.AutoMirrored.Outlined.ArrowBack)
+    FLASHCARD("flashcard", "sitelen lipu", Icons.Outlined.Square),
+    WORD_LIST("wordlist", "nimi ale", Icons.AutoMirrored.Outlined.List),
+    SETTINGS("settings", "ante e pilin", Icons.Outlined.Settings)
 }

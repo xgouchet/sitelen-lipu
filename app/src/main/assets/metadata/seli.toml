@@ -60,3 +60,8 @@ sitelen_jelo = "🔥" # ["🔥"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/seli"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#seli"
+
+[toki_inli]
+n = "fire, warmth, heat"
+mod = "hot, warm, cooked"
+vt = "to heat, to warm up, to cook"

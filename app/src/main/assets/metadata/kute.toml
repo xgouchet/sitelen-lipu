@@ -49,3 +49,8 @@ sitelen_jelo = "👂" # ["👂"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kute"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kute"
+
+[toki_inli]
+mod = "auditory, hearing"
+vt = "to listen, to hear, to pay attention to, to obey (old)"
+n = "ear, hearing organ"

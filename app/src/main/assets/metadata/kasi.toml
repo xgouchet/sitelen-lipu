@@ -49,3 +49,6 @@ sitelen_jelo = "🌱" # ["🌱"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kasi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kasi"
+
+[toki_inli]
+n = "plant, vegetation, herb, leaf, tree, wood"

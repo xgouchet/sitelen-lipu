@@ -94,3 +94,9 @@ sitelen_jelo = "⚓" # ["⚓"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/awen"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#awen"
+
+[toki_inli]
+vi = "to stay, to wait, to remain"
+vt = "to keep, to maintain"
+mod = "remaining, stationary, permanent, sedentary"
+pv = "to continue doing, to still be doing"

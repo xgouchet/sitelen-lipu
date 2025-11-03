@@ -65,3 +65,6 @@ sitelen_jelo = "🕒" # ["🕒"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/tenpo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#tenpo"
+
+[toki_inli]
+n = "time, period of time, moment, duration, situation"

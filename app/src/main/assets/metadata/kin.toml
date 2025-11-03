@@ -50,3 +50,6 @@ sitelen_jelo = "*️⃣" # ["*️⃣"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kin"
+
+[toki_inli]
+mod = "also, too, even, indeed (emphasizes the word(s) before it)"

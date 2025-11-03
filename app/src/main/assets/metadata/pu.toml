@@ -51,3 +51,6 @@ sitelen_jelo = "🧘" # ["🧘"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pu"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pu"
+
+[toki_inli]
+other = "interacting with the book Toki Pona: The Language of Good (2014) by Sonja Lang"

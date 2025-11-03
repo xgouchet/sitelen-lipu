@@ -88,3 +88,7 @@ sitelen_jelo = "🐁" # ["🐁"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lili"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lili"
+
+[toki_inli]
+mod = "small, little, young, a bit, short, few, less, uninmportant"
+vt = "to reduce, to shorten, to shrink, to lessen"

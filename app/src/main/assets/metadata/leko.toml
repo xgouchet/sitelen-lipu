@@ -52,3 +52,6 @@ sitelen_jelo = "🧱" # ["🧱"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/leko"
+
+[toki_inli]
+n ="square, tile, polygon"

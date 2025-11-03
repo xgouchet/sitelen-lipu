@@ -54,3 +54,8 @@ sitelen_jelo = "❌" # ["❌"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ala"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ala"
+
+[toki_inli]
+interj = "no!"
+mod = "no, not, none, un-"
+n = "nothing, negation, zero"

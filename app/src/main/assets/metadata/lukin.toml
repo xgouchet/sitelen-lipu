@@ -89,3 +89,9 @@ sitelen_jelo = "👀" # ["👀"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lukin"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lukin"
+
+[toki_inli]
+mod = "visual, visually"
+pv = "to try to"
+vi = "to look, to watch out, to pay attention, to examine"
+vt = "to see, to look at, to watch, to read"

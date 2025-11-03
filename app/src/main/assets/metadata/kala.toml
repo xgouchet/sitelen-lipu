@@ -48,3 +48,6 @@ sitelen_jelo = "🐟" # ["🐟"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kala"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kala"
+
+[toki_inli]
+n = "fish, marine animal, sea creature"

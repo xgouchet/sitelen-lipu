@@ -57,3 +57,7 @@ sitelen_jelo = "🌀" # ["🌀"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/nasa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#nasa"
+
+[toki_inli]
+mod = "unusual, silly, crazy, foolish, drunk, strange, stupid, weird"
+vt = "to drive crazy, to make weird"

@@ -54,3 +54,7 @@ sitelen_jelo = "🦵" # ["🦵"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/noka"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#noka"
+
+[toki_inli]
+n = "foot, leg, organ of locomotion; bottom, lower part"
+vt = "to kick, to step on, to walk on"

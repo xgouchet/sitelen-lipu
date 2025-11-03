@@ -52,3 +52,7 @@ sitelen_jelo = "🗿" # ["🗿"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sinpin"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sinpin"
+
+[toki_inli]
+n = "front, chest, torso, face, wall, vertical surface"
+

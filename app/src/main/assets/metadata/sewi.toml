@@ -69,3 +69,7 @@ sitelen_jelo = "☁️" # ["☁️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sewi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sewi"
+
+[toki_inli]
+mod = "superior, elevated, religious, formal, divine, top"
+n = "high, up, above, top, over, on; God"

@@ -64,3 +64,9 @@ sitelen_jelo = "💩" # ["💩"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/jaki"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#jaki"
+
+[toki_inli]
+interj = "ew! yuck!"
+mod = "dirty, gross, filthy, disgusting, obscene, sickly, toxic, unclean, unsanitary"
+n = "dirt, pollution, garbage, filth"
+vt = "pollute, dirty"

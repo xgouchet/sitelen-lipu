@@ -58,3 +58,8 @@ sitelen_jelo = "🍬" # ["🍬"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/suwi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#suwi"
+
+[toki_inli]
+mod = "sweet, cute"
+n = "candy, sweet food"
+vt = "to sweeten"

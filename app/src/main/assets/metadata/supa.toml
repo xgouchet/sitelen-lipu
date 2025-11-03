@@ -70,3 +70,6 @@ sitelen_jelo = "🛏️" # ["🛏️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/supa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#supa"
+
+[toki_inli]
+n = "horizontal surface, e.g furniture, table, chair, pillow, floor"

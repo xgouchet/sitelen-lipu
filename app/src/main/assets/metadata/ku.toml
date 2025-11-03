@@ -34,3 +34,6 @@ sitelen_jelo = "🔬" # ["🔬"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ku"
+
+[toki_inli]
+other = "interacting with the book Toki Pona Dictionary (2021) by Sonja Lang"

@@ -87,3 +87,6 @@ sitelen_jelo = "🐮" # ["🐮"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mani"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mani"
+
+[toki_inli]
+n = "money, cash, savings, material wealth, currency, dollar, capital"

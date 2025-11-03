@@ -84,3 +84,10 @@ sitelen_jelo = "😔" # ["😔"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ike"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ike"
+
+[toki_inli]
+interj = "oh dear! woe! alas!"
+mod = "bad, negative, wrong, evil, overly complex, (figuratively) unhealthy, boring"
+n = "negativity, badness, evil"
+vi = "to be bad, to suck"
+vt = "to make bad, to worsen, to have a negative effect upon"

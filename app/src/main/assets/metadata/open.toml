@@ -60,3 +60,7 @@ sitelen_jelo = "🎬" # ["🎬"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/open"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#open"
+
+[toki_inli]
+vt = "to open, to turn on"
+pv = "to begin, to start"

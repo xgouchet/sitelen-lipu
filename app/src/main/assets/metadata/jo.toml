@@ -61,3 +61,7 @@ sitelen_jelo = "👜" # ["👜"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/jo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#jo"
+
+[toki_inli]
+n	="having"
+vt	="to have, to contain, to carry, to hold"

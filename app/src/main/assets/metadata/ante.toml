@@ -82,3 +82,9 @@ sitelen_jelo = "🔀" # ["🔀"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ante"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ante"
+
+[toki_inli]
+cont = "otherwise, or else"
+mod = "different, altered, changed, other"
+n = "difference"
+vt = "to change, to alter, to modify"

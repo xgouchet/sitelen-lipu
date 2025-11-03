@@ -50,3 +50,8 @@ sitelen_jelo = "😴" # ["😴"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lape"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lape"
+
+[toki_inli]
+mod = "sleeping, of sleep"
+n = "sleep, rest"
+vi = "to sleep, to rest"

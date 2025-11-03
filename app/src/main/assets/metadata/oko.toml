@@ -49,3 +49,9 @@ sitelen_jelo = "👁️" # ["👁️"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/oko"
+
+[toki_inli]
+n = "eye"
+pv = "to try to"
+vi = "to see, to observe"
+vt = "to look at, to examine, to read, to watch"

@@ -50,3 +50,8 @@ sitelen_jelo = "👏" # ["👏"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kalama"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kalama"
+
+[toki_inli]
+n = "sound, noise, voice"
+vi = "to make some noise, to produce a sound, to recite, to utter aloud"
+vt = "to sound, to ring, to play (an instrument)"

@@ -63,10 +63,11 @@ dependencies {
 
     implementation(libs.androidx.material3)
     implementation(libs.androidx.material.icons.extended)
+    implementation(libs.compose.preferences)
 
     // Serialization
-    implementation("com.akuleshov7:ktoml-core:0.7.1")
-    implementation("com.akuleshov7:ktoml-file:0.7.1")
+    implementation(libs.ktoml.core)
+    implementation(libs.ktoml.file)
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

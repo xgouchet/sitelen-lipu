@@ -42,3 +42,8 @@ sitelen_jelo = "🪞" # ["🪞", "🪩"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/jasima"
+
+[toki_inli]
+n = "mirror, echo"
+mod = "mirrored, duplicated"
+vt = "to reflect, to echo, to duplicate"

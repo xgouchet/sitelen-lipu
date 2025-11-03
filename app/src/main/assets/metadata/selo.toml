@@ -65,3 +65,7 @@ sitelen_jelo = "🍌" # ["🍌"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/selo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#selo"
+
+[toki_inli]
+n = "outside surface, skin, shell, bark, shape, peel"
+vt = "to surround, to wrap, to hug"

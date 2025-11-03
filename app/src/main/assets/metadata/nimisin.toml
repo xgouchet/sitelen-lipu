@@ -28,3 +28,6 @@ ligatures = "nimisin" # ["nimisin"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/nimisin"
+
+[toki_inli]
+n = "any non-pu word; any new word; any joke word"

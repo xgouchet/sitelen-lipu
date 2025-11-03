@@ -59,3 +59,7 @@ sitelen_jelo = "👇" # ["👇", "🅿️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mi"
+
+[toki_inli]
+n = "I, me, we, us"
+mod = "my, our"

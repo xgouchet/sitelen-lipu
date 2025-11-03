@@ -70,3 +70,6 @@ sitelen_jelo = "🚪" # ["🚪"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lupa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lupa"
+
+[toki_inli]
+n = "hole, orifice, window, door, portal"

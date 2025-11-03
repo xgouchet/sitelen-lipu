@@ -68,3 +68,9 @@ sitelen_jelo = "🌌" # ["🌌"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ale"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ale"
+
+[toki_inli]
+mod = "all, every, abundant, countless, bountiful, plentiful, complete, whole"
+n = "abundance, everything, anything, life, the universe"
+number = "100"
+# Verb ? complete, fill

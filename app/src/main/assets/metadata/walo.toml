@@ -47,3 +47,7 @@ sitelen_jelo = "🐑" # ["🐑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/walo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#walo"
+
+[toki_inli]
+mod = "white, whitish; light-coloured, pale"
+n = "white thing or part, whiteness, lightness"

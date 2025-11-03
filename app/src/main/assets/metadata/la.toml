@@ -55,3 +55,6 @@ sitelen_jelo = "ℹ️" # ["ℹ️", "💁"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/la"
+
+[toki_inli]
+sep = "(between the context phrase and the main sentence)"

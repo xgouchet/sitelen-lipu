@@ -54,3 +54,8 @@ sitelen_jelo = "💧" # ["💧"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/telo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#telo"
+
+[toki_inli]
+mod = "wet, liquid"
+n = "water, liquid, juice, sauce"
+vt = "to water, to wash with water"

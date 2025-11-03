@@ -68,3 +68,8 @@ sitelen_jelo = "🛒" # ["🛒"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/esun"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#esun"
+
+[toki_inli]
+n = "market, shop, fair, bazaar, exchange, business transaction"
+vi = "to trade"
+vt = "to buy, to sell, to exchange"

@@ -59,3 +59,6 @@ sitelen_jelo = "🍞" # ["🍞"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pan"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pan"
+
+[toki_inli]
+n = "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta"

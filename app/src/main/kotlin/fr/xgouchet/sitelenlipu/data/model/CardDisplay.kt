@@ -16,10 +16,10 @@ data class CardDisplay(
             tokiJan = true,
         )
 
-        val VIEW_TOKI_AND_SITELEN = CardDisplay(
+        val VIEW_SECRET_DEFAULT = CardDisplay(
             sitelenPona = true,
-            sitelenPilin = true,
-            sitelenJelo = true,
+            sitelenPilin = false,
+            sitelenJelo = false,
             tokiPona = true,
             tokiJan = false,
         )

@@ -53,3 +53,7 @@ sitelen_jelo = "📛" # ["📛"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/nimi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#nimi"
+
+[toki_inli]
+n = "word, name"
+vt = "to name"

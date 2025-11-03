@@ -51,3 +51,6 @@ sitelen_jelo = "▶️" # ["▶️"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/li"
+
+[toki_inli]
+sep	="(between any subject (except mi and sina alone) and its verb; also used to introduce a new verb for the same subject)"

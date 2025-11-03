@@ -75,3 +75,7 @@ sitelen_jelo = "🎨" # ["🎨", "🖼️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sitelen"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sitelen"
+
+[toki_inli]
+n = "picture, image, representation, symbol, mark, writing"
+vt = "to draw, to write, to mark"

@@ -49,3 +49,7 @@ sitelen_jelo = "👆" # ["👆", "6️⃣"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sina"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sina"
+
+[toki_inli]
+mod = "your"
+n = "you"

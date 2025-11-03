@@ -60,3 +60,8 @@ sitelen_jelo = "✨" # ["✨"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sin"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sin"
+
+[toki_inli]
+mod = "new, fresh, another, more"
+vt = "to renew, to renovate, to freshen"
+other = "again"

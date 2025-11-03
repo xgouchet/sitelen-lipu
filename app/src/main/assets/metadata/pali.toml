@@ -112,3 +112,9 @@ sitelen_jelo = "🏗️" # ["🏗️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pali"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pali"
+
+[toki_inli]
+n = "activity, work, deed, project"
+mod = "active, work-related, operating, working"
+vt = "to do, to make, to build, to create"
+vi = "to act, to work, to function"

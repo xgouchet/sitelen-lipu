@@ -60,3 +60,7 @@ sitelen_jelo = "🌶️" # ["🌶️"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/namako"
+
+[toki_inli]
+mod = "additional, another, extra"
+noun = "spice, ornament, adornment"

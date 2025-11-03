@@ -65,3 +65,7 @@ sitelen_jelo = "🗳️" # ["🗳️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/insa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#insa"
+
+[toki_inli]
+mod = "inner, internal; average, neutral"
+n = "inside, between, inner world, centre, stomach, content; internal organ, stomach"

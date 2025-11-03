@@ -79,3 +79,6 @@ sitelen_jelo = "🏝️" # ["🏝️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ma"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ma"
+
+[toki_inli]
+n = "earth, land; outdoors, world; country, territory; soil"

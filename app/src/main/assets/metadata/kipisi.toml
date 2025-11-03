@@ -60,3 +60,8 @@ sitelen_jelo = "✂️" # ["✂️"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kipisi"
+
+[toki_inli]
+n = "piece, part, shard"
+mod = "sharp, pointy"
+vt = "to split, to cut, to slice"

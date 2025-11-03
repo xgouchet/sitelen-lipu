@@ -77,3 +77,9 @@ sitelen_jelo = "🧠" # ["🧠"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sona"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sona"
+
+[toki_inli]
+mod = "intelligent, wise"
+n = "knowledge, wisdom, intelligence, understanding"
+vi = "to know, to understand"
+vt = "to know, to understand, to know how to"

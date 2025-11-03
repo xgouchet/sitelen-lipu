@@ -55,3 +55,7 @@ sitelen_jelo = "🅾️" # ["🅾️"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/o"
+
+[toki_inli]
+interj = "hey! (calling somebody's attention)"
+sep = "(vocative or imperative)"

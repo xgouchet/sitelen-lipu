@@ -53,3 +53,8 @@ sitelen_jelo = "❄️" # ["❄️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lete"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lete"
+
+[toki_inli]
+mod = "cold, uncooked"
+n = "cold"
+vt = "cool down, chill"

@@ -70,3 +70,7 @@ sitelen_jelo = "🧣" # ["🧣"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/len"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#len"
+
+[toki_inli]
+n = "clothing, cloth, fabric; cover, layer of privacy"
+vt = "to hide, to dress"

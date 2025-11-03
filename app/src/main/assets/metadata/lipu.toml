@@ -73,3 +73,6 @@ sitelen_jelo = "🍁" # ["🍁"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lipu"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lipu"
+
+[toki_inli]
+n = "flat and bendable thing, book, document, card, paper, record, website, ticket"

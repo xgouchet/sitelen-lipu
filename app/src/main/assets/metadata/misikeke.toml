@@ -45,3 +45,7 @@ sitelen_jelo = "💊" # ["💊"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/misikeke"
+
+[toki_inli]
+n = "medical item or practice, prescriptions, meditation, exercise, bandages, therapy"
+mod = "medical"

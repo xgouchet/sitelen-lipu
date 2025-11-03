@@ -85,3 +85,10 @@ sitelen_jelo = "💥" # ["💥"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pakala"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pakala"
+
+[toki_inli]
+interj = "damn! fuck!"
+mod = "damaged, broken, harmed, messed up"
+n = "blunder, accident, mistake, destruction, damage, breaking"
+vi = "to screw up, to fall apart, to break"
+vt = "to break, to ruin, to break, to hurt, to injure, to damage, to spoil"

@@ -61,3 +61,7 @@ sitelen_jelo = "↩️" # ["↩️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/tan"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#tan"
+
+[toki_inli]
+n = "origin, cause"
+prep = "from, by, because of, since"

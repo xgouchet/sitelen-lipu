@@ -67,3 +67,6 @@ sitelen_jelo = "🔦" # ["🔦"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ilo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ilo"
+
+[toki_inli]
+n = "tool, device, machine, thing used for a specific purpose"

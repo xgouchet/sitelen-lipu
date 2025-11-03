@@ -88,3 +88,8 @@ sitelen_jelo = "❤️" # ["❤️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pilin"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pilin"
+
+[toki_inli]
+n = "feelings, emotion, heart, opinion"
+vi = "to feel"
+vt = "to feel, to think, to sense, to touch"

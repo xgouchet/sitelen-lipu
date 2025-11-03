@@ -112,3 +112,10 @@ sitelen_jelo = "💬" # ["💬"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/toki"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#toki"
+
+[toki_inli]
+interj = "hello! hi!"
+mod = "talking, verbal"
+n = "language, talking, speech, communication"
+vi = "to talk, to chat, to communicate"
+vt = "to say"

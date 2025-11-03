@@ -85,3 +85,8 @@ sitelen_jelo = "🆑" # ["🆑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/weka"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#weka"
+
+[toki_inli]
+mod = "away, absent, missing"
+n = "absence"
+vt = "to throw away, to remove, to get rid of"

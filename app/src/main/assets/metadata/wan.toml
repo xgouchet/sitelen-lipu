@@ -72,3 +72,9 @@ sitelen_jelo = "1️⃣" # ["1️⃣"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/wan"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#wan"
+
+[toki_inli]
+mod = "one, a"
+n = "unit, element, particle, part, piece"
+number = "1"
+vt = "to unite, to make one"

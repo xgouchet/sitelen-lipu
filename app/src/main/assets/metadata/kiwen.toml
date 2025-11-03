@@ -57,3 +57,7 @@ sitelen_jelo = "💎" # ["💎"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kiwen"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kiwen"
+
+[toki_inli]
+mod = "hard, solid, stone-like, made of stone or metal"
+n = "hard thing, rock, stone, metal, mineral, clay"

@@ -54,3 +54,6 @@ sitelen_jelo = "🪷" # ["🪷", "💾", "🧓"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/majuna"
+
+[toki_inli]
+mod = "old, aged, ancient"

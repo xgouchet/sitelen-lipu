@@ -2,6 +2,7 @@ package fr.xgouchet.sitelenlipu.ui.atom
 
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.Text
@@ -15,7 +16,9 @@ fun BottomNavBar(
     selectedScreen: Screen,
     onSelectScreen: (Screen) -> Unit
 ) {
-    NavigationBar {
+    NavigationBar(
+        containerColor = MaterialTheme.colorScheme.secondaryContainer
+    ) {
         Screen.entries.forEachIndexed { index, screen ->
             NavigationBarItem(
                 selected = screen == selectedScreen,

@@ -72,3 +72,6 @@ sitelen_jelo = "📦" # ["📦"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/poki"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#poki"
+
+[toki_inli]
+n = "container, box, bowl, cup, glass, bag"

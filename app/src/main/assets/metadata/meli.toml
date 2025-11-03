@@ -59,3 +59,7 @@ sitelen_jelo = "👩" # ["👩"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/meli"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mije-and-meli"
+
+[toki_inli]
+mod = "female, feminine, womanly"
+n = "woman, female, girl, wife, girlfriend"

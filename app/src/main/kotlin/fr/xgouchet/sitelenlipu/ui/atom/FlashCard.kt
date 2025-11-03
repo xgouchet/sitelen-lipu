@@ -38,7 +38,7 @@ fun FlashCard(
     Card(
         elevation = CardDefaults.cardElevation(8.dp),
         colors = CardDefaults.cardColors(
-            containerColor = categoryColor(wordInfo)
+            containerColor = CategoryColor(wordInfo)
         ),
         onClick = onClick,
         modifier = modifier
@@ -86,7 +86,7 @@ fun FlashCard(
                     Row {
                         Text(
                             text = key,
-                            modifier = Modifier.align(Alignment.Top).padding(8.dp).width(70.dp),
+                            modifier = Modifier.align(Alignment.Top).padding(8.dp).width(48.dp),
                             style = MaterialTheme.typography.labelMedium
                         )
                         Text(
@@ -101,16 +101,6 @@ fun FlashCard(
     }
 }
 
-fun categoryColor(wordInfo: WordInfo): Color {
-    return when (wordInfo.usageCategory) {
-        "core" -> CoreAccent
-        "common" -> CommonAccent
-        "uncommon" -> UncommonAccent
-        "obscure" -> ObscureAccent
-        else -> Color.Red
-    }
-}
-
 @Composable
 @Preview
 fun PreviewCard() {
@@ -119,7 +109,7 @@ fun PreviewCard() {
             WordInfo(
                 id = "kepeken",
                 seeAlso = emptyList(),
-                usageCategory = "core",
+                usageCategory = "cofre",
                 puVerbatim = mapOf(
                     "fr" to "PRÉPOSITION en utilisant, avec, au moyen de",
                     "en" to "PREPOSITION to use, with, by means of",

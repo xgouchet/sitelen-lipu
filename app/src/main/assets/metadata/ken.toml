@@ -80,3 +80,10 @@ sitelen_jelo = "💪" # ["💪"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ken"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ken"
+
+[toki_inli]
+cont = "it is possible that"
+n = "possibility, ability, power to do things, permission"
+pv = "to be able to, to be allowed to"
+vi = "to be possible"
+vt = "to make possible, to enable, to allow, to permit"

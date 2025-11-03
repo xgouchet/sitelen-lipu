@@ -73,3 +73,8 @@ sitelen_jelo = "⚡" # ["⚡"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/wawa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#wawa"
+
+[toki_inli]
+mod = "energetic, strong, fierce, intense, sure, confident"
+n = "energy, strength, power"
+vt = "to strengthen, to energize, to empower"

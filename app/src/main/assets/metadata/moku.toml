@@ -62,3 +62,7 @@ sitelen_jelo = "🍜" # ["🍜"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/moku"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#moku"
+
+[toki_inli]
+n = "food, meal"
+vt = "to eat, to drink, to swallow, to ingest, to consume"

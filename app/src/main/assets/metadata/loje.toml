@@ -46,3 +46,7 @@ sitelen_jelo = "👅" # ["👅"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/loje"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#loje"
+
+[toki_inli]
+mod = "red, reddish"
+vi = "to blush, to redden"

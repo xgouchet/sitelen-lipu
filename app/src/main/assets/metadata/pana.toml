@@ -107,3 +107,7 @@ sitelen_jelo = "🙌" # ["🙌"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pana"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pana"
+
+[toki_inli]
+n = "emission, transfer, gift"
+vt = "to give, to put, to send, to place, to release, to emit, to cause"

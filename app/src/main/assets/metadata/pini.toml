@@ -74,3 +74,8 @@ sitelen_jelo = "🏁" # ["🏁", "🛑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pini"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pini"
+
+[toki_inli]
+mod = "completed, finished, past, done, ago"
+n = "end, tip"
+vt = "to finish, to close, to end, to turn off"

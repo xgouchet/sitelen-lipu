@@ -41,5 +41,14 @@ data class WordInfo(
         val KEY_REPR_SITELEN_PILIN = "sitelen_emosi"
         val KEY_REPR_SITELEN_JELO = "sitelen_jelo"
         val KEY_REPR_UCSUR = "ucsur"
+
+        val TOKI_PONA = WordInfo(
+            id="toki pona",
+            representations = mapOf(
+                KEY_REPR_TOKI_PONA to "toki pona"
+            ),
+            usageCategory = "core",
+            deprecated = false
+        )
     }
 }

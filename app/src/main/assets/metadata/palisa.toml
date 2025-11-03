@@ -56,3 +56,6 @@ sitelen_jelo = "📏" # ["📏"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/palisa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#palisa"
+
+[toki_inli]
+n = "long, mostly hard object, e.g. rod, stick, branch"

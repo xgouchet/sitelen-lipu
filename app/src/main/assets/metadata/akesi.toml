@@ -47,3 +47,6 @@ sitelen_jelo = "🦎" # ["🦎", "🐸"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/akesi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#akesi"
+
+[toki_inli]
+n = "non-cute animal; reptile, amphibian"

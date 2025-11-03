@@ -90,3 +90,8 @@ sitelen_jelo = "👐" # ["👐"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mute"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mute"
+
+[toki_inli]
+mod = "many, very, much, several, a lot, abundant, numerous, more"
+n = "amount, quantity"
+vt = "to make many (to multiply, to divide)"

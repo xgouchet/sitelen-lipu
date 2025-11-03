@@ -63,3 +63,9 @@ sitelen_jelo = "🧑" # ["🧑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/jan"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#jan"
+
+[toki_inli]
+mod = "human, somebody's, personal, of people"
+n = "person, people, human, being, somebody, anybody"
+vt = "to personify, to humanize, to personalize"
+

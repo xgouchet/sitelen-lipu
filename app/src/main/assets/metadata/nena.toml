@@ -55,3 +55,7 @@ sitelen_jelo = "🗻" # ["🗻"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/nena"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#nena"
+
+[toki_inli]
+n = "bump, nose, hill, mountain, button"
+vt = "to smell (perceive smell)"

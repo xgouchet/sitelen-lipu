@@ -52,3 +52,8 @@ sitelen_jelo = "🌈" # ["🌈"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kule"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kule"
+
+[toki_inli]
+mod = "colourful"
+n = "colour, paint"
+vt = "to colour, to paint"

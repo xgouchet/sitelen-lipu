@@ -54,3 +54,7 @@ sitelen_jelo = "👨" # ["👨"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mije"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mije-and-meli"
+
+[toki_inli]
+mod = "male, masculine, manly"
+n = "man, male, husband, boyfriend"

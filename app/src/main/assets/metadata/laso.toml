@@ -51,3 +51,6 @@ sitelen_jelo = "☘️" # ["☘️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/laso"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#laso"
+
+[toki_inli]
+mod = "blue, blue-green"

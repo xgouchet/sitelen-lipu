@@ -64,3 +64,7 @@ sitelen_jelo = "⭕" # ["⭕"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sike"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sike"
+
+[toki_inli]
+mod = "round, cyclical"
+n = "circle, wheel, sphere, ball, cycle"

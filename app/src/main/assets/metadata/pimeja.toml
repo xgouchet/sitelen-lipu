@@ -50,3 +50,8 @@ sitelen_jelo = "🎱" # ["🎱"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/pimeja"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#pimeja"
+
+[toki_inli]
+mod = "black, dark"
+n = "darkness, shadow, shade"
+vt = "to darken"

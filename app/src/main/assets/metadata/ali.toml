@@ -29,7 +29,7 @@ entire = 27
 universe = 21
 
 [representations]
-ligatures = "ali" # ["ali"]
+ligatures = "ale" # ["ali"]
 ucsur = "U+F1904"
 sitelen_emosi = "♾️"
 sitelen_sitelen = "https://raw.githubusercontent.com/lipu-linku/ijo/main/sitelensitelen/jonathangabel/ale.jpg"
@@ -40,3 +40,15 @@ sitelen_sitelen = "https://raw.githubusercontent.com/lipu-linku/ijo/main/sitelen
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ali"
+
+[pu_verbatim]
+de = "ADJEKTIV alle, jede/r/s; im Überfluss, zahllos, reichlich\nNOMEN Überfluss, alles, Leben, Universum\nZAHL 100"
+en = "ADJECTIVE all; abundant, countless, bountiful, every, plentiful\nNOUN abundance, everything, life, universe\nNUMBER 100"
+eo = "ADJEKTIVO ĉiuj; abunda, nenombrebla, ĉiu\nSUBSTANTIVO abundo, ĉio, vivo, universo\nNOMBRO 100"
+fr = "ADJECTIF tous, abondants, innombrables\nNOM tout, abondance, la vie, l'univers\nNOMBRE 100"
+
+[toki_inli]
+mod = "all, every, abundant, countless, bountiful, plentiful, complete, whole"
+n = "abundance, everything, anything, life, the universe"
+number = "100"
+# Verb ? complete, fill

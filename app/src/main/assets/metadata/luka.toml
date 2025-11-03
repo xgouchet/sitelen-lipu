@@ -57,3 +57,8 @@ sitelen_jelo = "🖐️" # ["🖐️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/luka"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#luka"
+
+[toki_inli]
+n = "hand, arm, tactile organ"
+vt = "to touch, to pet, to press, to pull, to hold, to hug, to grasp"
+number = "5"

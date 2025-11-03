@@ -88,3 +88,8 @@ sitelen_jelo = "👑" # ["👑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/lawa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#lawa"
+
+[toki_inli]
+mod = "main, leading, in charge"
+n = "head, mind"
+vt = "to lead, to control, to rule, to steer, to direct, to guide, to own, to plan"

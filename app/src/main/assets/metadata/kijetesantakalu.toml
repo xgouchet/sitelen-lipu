@@ -42,3 +42,6 @@ sitelen_jelo = "🦡" # ["🦡", "🦝"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kijetesantakalu"
+
+[toki_inli]
+n = "raccoon, striped skunk, red panda, weasel"

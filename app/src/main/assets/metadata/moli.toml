@@ -53,3 +53,9 @@ sitelen_jelo = "😵" # ["😵"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/moli"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#moli"
+
+[toki_inli]
+mod = "dead, deadly, dying, fatal, lethal"
+n = "death"
+vi = "to die, to be dead"
+vt = "to kill"

@@ -49,3 +49,7 @@ sitelen_jelo = "🍑" # ["🍑"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/monsi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#monsi"
+
+[toki_inli]
+mod = "back, rear"
+n = "back, rear end, butt, behind"

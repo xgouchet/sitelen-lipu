@@ -95,3 +95,7 @@ sitelen_jelo = "👥" # ["👥"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kulupu"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kulupu"
+
+[toki_inli]
+n = "group, community, society, company, people, tribe"
+mod = "communal, shared, public, of the society"

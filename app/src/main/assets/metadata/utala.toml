@@ -79,3 +79,7 @@ sitelen_jelo = "⚔️" # ["⚔️", "🆚"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/utala"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#utala"
+
+[toki_inli]
+n = "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
+vt = "to hit, to strike, to attack, to compete against, to battle, to challenge"

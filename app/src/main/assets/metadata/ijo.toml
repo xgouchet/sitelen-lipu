@@ -67,3 +67,8 @@ sitelen_jelo = "🐚" # ["🐚"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/ijo"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#ijo"
+
+[toki_inli]
+mod = "of something"
+n = "thing, something, stuff, anything, object"
+vt = "to objectify"

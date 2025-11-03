@@ -83,3 +83,10 @@ sitelen_jelo = "🛫" # ["🛫"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/tawa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#tawa"
+
+[toki_inli]
+mod = "moving, mobile"
+n = "movement, transportation"
+prep = "to, in order to, towards, for, until"
+vi = "to go to, to walk, to travel, to move, to leave"
+vt = "to move, to displace"

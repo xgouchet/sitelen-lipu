@@ -54,3 +54,8 @@ sitelen_jelo = "👯" # ["👯"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/poka"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#poka"
+
+[toki_inli]
+n = "side, hip, next to"
+prep = "in the accompaniment of, with"
+mod = "neighbouring"

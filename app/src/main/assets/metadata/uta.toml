@@ -52,3 +52,7 @@ sitelen_jelo = "👄" # ["👄"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/uta"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#uta"
+
+[toki_inli]
+mod = "oral"
+n = "mouth, lips, oral cavity, jaw"

@@ -13,6 +13,7 @@ import androidx.compose.ui.Modifier
 import fr.xgouchet.sitelenlipu.data.viewmodel.FlashCardViewModel
 import fr.xgouchet.sitelenlipu.ui.atom.BottomNavBar
 import fr.xgouchet.sitelenlipu.ui.model.Screen
+import kotlinx.coroutines.selects.select
 
 @Composable
 fun MainScreen(
@@ -26,13 +27,16 @@ fun MainScreen(
             BottomNavBar(selectedScreen) { selectedScreen = it }
         },
         floatingActionButtonPosition = FabPosition.End,
-        modifier = Modifier.fillMaxSize()
+        modifier = Modifier
     ) { innerPadding ->
-        if (selectedScreen == Screen.FLASHCARD) {
-            FlashCardScreen(
-                flashCardViewModel,
-                Modifier.padding(innerPadding)
-            )
+        val modifier = Modifier.padding(innerPadding)
+        when (selectedScreen) {
+            Screen.FLASHCARD -> FlashCardScreen(flashCardViewModel, modifier)
+            Screen.WORD_LIST -> WordListScreen(modifier) {
+                flashCardViewModel.fetchWord(it)
+                selectedScreen = Screen.FLASHCARD
+            }
+            Screen.SETTINGS -> SettingsScreen(modifier)
         }
     }
 }

@@ -41,3 +41,6 @@ sitelen_jelo = "⏩" # ["⏩"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/e"
+
+[toki_inli]
+sep = "(introduces a direct object)"

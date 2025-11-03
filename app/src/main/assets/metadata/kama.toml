@@ -63,3 +63,10 @@ sitelen_jelo = "🛬" # ["🛬"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kama"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kama"
+
+[toki_inli]
+mod = "coming, future"
+n = "event, happening, chance, arrival, beginning"
+pv = "to manage to, start to"
+vi = "to come, to become, to arrive, to happen, to pursue actions, to arrive to (a certain state)"
+vt = "to bring about, to summon"

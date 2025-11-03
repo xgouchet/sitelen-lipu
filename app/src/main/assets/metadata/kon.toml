@@ -63,3 +63,7 @@ sitelen_jelo = "💨" # ["💨"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/kon"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#kon"
+
+[toki_inli]
+mod = "air-like, ethereal, gaseous"
+n = "(unseen thing): air, wind, gaz, smell, soul, spirit"

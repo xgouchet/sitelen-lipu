@@ -54,3 +54,7 @@ sitelen_jelo = "🧎" # ["🧎", "🙇"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/anpa"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#anpa"
+
+[toki_inli]
+mod = "low, lower, bottom, down"
+n = "bottom, lower part, under, below, floor, beneath"

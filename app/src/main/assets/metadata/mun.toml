@@ -49,3 +49,7 @@ sitelen_jelo = "🌙" # ["🌙"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/mun"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#mun"
+
+[toki_inli]
+mod = "lunar, astral"
+n = "moon, night sky object, star"

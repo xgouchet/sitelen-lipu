@@ -77,3 +77,7 @@ sitelen_jelo = "⚖️" # ["⚖️"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/sama"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#sama"
+
+[toki_inli]
+mod = "same, similar, equal, of equal status or position (sibling, peer, fellow, …)"
+prep = "like, as, same"

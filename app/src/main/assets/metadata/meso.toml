@@ -44,3 +44,8 @@ sitelen_jelo = "😑" # ["😑"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/meso"
+
+[toki_inli]
+mod = "medium, mediocre; neither one not the other"
+n = "midpoint"
+pv = "neither fully is nor isn't"

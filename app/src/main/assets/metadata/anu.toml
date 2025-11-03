@@ -52,3 +52,6 @@ sitelen_jelo = "🤷" # ["🤷"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/anu"
+
+[toki_inli]
+conj = "or"

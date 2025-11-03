@@ -64,3 +64,10 @@ sitelen_jelo = "🎭" # ["🎭"]
 [resources]
 sona_pona = "https://sona.pona.la/wiki/musi"
 lipamanka_semantic = "https://lipamanka.gay/essays/dictionary#musi"
+
+[toki_inli]
+n = "fun, playing, game, recreation, art, entertainment"
+mod = "artful, artistic, fun, entertaining, recreational, playful"
+vi = "to play, to have fun"
+vt = "to amuse, to entertain"
+

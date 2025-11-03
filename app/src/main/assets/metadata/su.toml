@@ -31,3 +31,6 @@ sitelen_jelo = "🧙" # ["🧙", "🧵"]
 
 [resources]
 sona_pona = "https://sona.pona.la/wiki/su"
+
+[toki_inli]
+other = "interacting with a book from the illustrated story book series that began with The Wonderful Wizard of Oz, produced by Sonja Lang"
